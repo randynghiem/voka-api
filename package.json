@@ -2,13 +2,23 @@
   "name": "voka-api",
   "version": "0.0.1",
   "description": "Microservices for Voka app",
-  "main": "bin/www.js",
+  "main": "bin/server.js",
   "scripts": {
-    "test": "jest --watchAll"
+    "start": "node ./bin/server.js",
+    "test": "jest --watch"
   },
   "keywords": [
     "nodejs"
   ],
   "author": "Randy Nghiem",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
