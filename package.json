@@ -1,0 +1,14 @@
+{
+  "name": "voka-api",
+  "version": "0.0.1",
+  "description": "Microservices for Voka app",
+  "main": "bin/www.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Randy Nghiem",
+  "license": "ISC"
+}
