@@ -6,13 +6,19 @@
 
 var app = require('../app');
 var debug = require('debug')('voka-api:server');
+var dotenv = require('dotenv');
 var http = require('http');
+
+/**
+ * Configure environment
+ */
+dotenv.config({ path: './bin/config.env'});
 
 /**
  * Configure App
  */
 
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 443;
 app.set('port', port);
 
 
