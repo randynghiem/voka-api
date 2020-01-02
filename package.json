@@ -4,7 +4,7 @@
   "description": "Microservices for Voka app",
   "main": "bin/server.js",
   "scripts": {
-    "start": "set DEBUG=voka-api:* & node ./bin/server.js",
+    "start": "set DEBUG=voka-api:* & nodemon ./bin/server.js",
     "test": "jest --watch"
   },
   "keywords": [
@@ -17,9 +17,15 @@
     "cors": "^2.8.5",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3"
   },
   "devDependencies": {
-    "jest": "^24.9.0"
+    "@types/jest": "^24.0.25",
+    "jest": "^24.9.0",
+    "nodemon": "^2.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
   }
 }

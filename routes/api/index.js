@@ -1,10 +1,10 @@
 const express = require('express');
-const termRouter = require('./terms-router');
+const termsRouter = require('./terms-router');
 
 /**
  * Configure specific routes
  */
 const apiRouter = express.Router();
-apiRouter.use('/terms', termRouter);
+apiRouter.use('/terms', termsRouter);
 
 module.exports = apiRouter;

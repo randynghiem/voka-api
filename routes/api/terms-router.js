@@ -1,16 +1,23 @@
 const express = require('express');
+const termsModel = require('../../components/terms');
 
-// define routing
-const termRouter = express.Router();
+const termsRouter = express.Router();
 
-termRouter.get('/', (req, res, next)=> {
-  res.json({ 
-    term: "test",
-    phonetic: "",
-    meaning: "meaning",
-    example: "example"
-  });
-});
+/**
+ * Define route handler
+ */
 
+const getTerms = async (req, res, next) => {
+  //validation
+  const terms = await termsModel.getTerms();
 
-module.exports = termRouter;
+  res.status(200).json(terms);
+}
+
+/**
+ * Assign handlers to each route
+ */
+
+termsRouter.get('/', getTerms);
+
+module.exports = termsRouter;
