@@ -4,7 +4,8 @@
   "description": "Microservices for Voka app",
   "main": "bin/server.js",
   "scripts": {
-    "start": "set DEBUG=voka-api:* & nodemon ./bin/server.js",
+    "start": "node ./bin/server.js",
+    "dev": "set DEBUG=voka-api:* & nodemon ./bin/server.js",
     "test": "jest --watch"
   },
   "keywords": [
