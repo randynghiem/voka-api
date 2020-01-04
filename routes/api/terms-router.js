@@ -20,4 +20,7 @@ const getTerms = async (req, res, next) => {
 
 termsRouter.get('/', getTerms);
 
+/**
+ * Export router
+ */
 module.exports = termsRouter;
