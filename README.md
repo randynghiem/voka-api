@@ -15,3 +15,4 @@ This is the repository for API project
 - Query external resources
 - Save notes, examples, etc.
 - Testing with Jest + Supertest
+- Extract captions from YT videos
