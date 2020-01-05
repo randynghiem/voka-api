@@ -32,6 +32,9 @@ const getCaption = async (videoID, lang = 'de') => {
     throw new Error(`Could not find ${lang} captions for ${videoID}`);
 
   const { data: transcript } = await axios.get(subtitle.baseUrl);
+
+  debug("Caption URL: ", subtitle.baseUrl);
+
   const lines = transcript
     .replace('<?xml version="1.0" encoding="utf-8" ?><transcript>', '')
     .replace('</transcript>', '')
@@ -54,6 +57,23 @@ const getCaption = async (videoID, lang = 'de') => {
 
       return { start, dur, text, };
     });
+
+  // add end position
+  const total = lines.length;
+  let i = 0,
+      startVal,
+      nextStartVal;
+  for (i = 0; i < total-1; i++) {
+    startVal = parseFloat(lines[i].start);
+    nextStartVal = parseFloat(lines[i+1].start);
+    lines[i].start = startVal;
+    lines[i].end = nextStartVal;
+  }
+  // process last item
+  startVal = parseFloat(lines[total-1].start);
+  let dur = parseFloat(lines[total-1].dur);
+  lines[total-1].start = startVal;
+  lines[total-1].end = startVal + dur;
 
   return lines;
 };
