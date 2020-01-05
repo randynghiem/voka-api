@@ -1,7 +1,7 @@
 const express = require('express');
 const compression = require('compression');
 const helmet = require('helmet');
-
+const cors = require('cors');
 const apiRoutes = require('./routes/api');
 const handleNotFound = require('./routes/middleware/not-found');
 const handleCatchErrors = require('./routes/middleware/catch-errors');
@@ -15,6 +15,7 @@ app.use(express.urlencoded({ extended: false }));
  */
 app.use(compression());
 app.use(helmet());
+app.use(cors());
 
 /**
  * Configure Routing and middlewares
