@@ -1,0 +1,826 @@
+[
+  {
+    "id": 1,
+    "title": "Persönliche Informationen",
+    "level": "A1",
+    "sections": [
+      {
+        "title": "Persönliche Informationen geben",
+        "parts": [
+          {
+            "title": "Name",
+            "sentences": [
+              "Ich heiße Paul.",
+              "Ich bin Paul.",
+              "Mein Name ist Randy Nghiem.",
+              "Mein Vorname ist Paul.",
+              "Mein Nachname ist Randy.",
+              "Mein Familienname ist Nghiem."
+            ]
+          },
+          {
+            "title": "Adresse, Telefon",
+            "sentences": [
+              "Meine Adresse ist…",
+              "Ich wohne in der Bergstraße.",
+              "Die Hausnummer ist 17.",
+              "Die Postleitzahl von Bonn ist 5 3 1 1 5.",
+              "Meine Telefonnummer ist 9 3 3 8 1 1 7 8"
+            ]
+          },
+          {
+            "title": "Herkunft",
+            "sentences": [
+              "Ich komme aus Berlin aus Deutschland.",
+              "Ich komme aus der Türkei.",
+              "Ich komme aus aus der Schweiz.",
+              "Ich komme aus den USA.",
+              "Ich komme aus aus den Niederlanden.",
+              "Ich komme von Teneriffa."
+            ]
+          },
+          {
+            "title": "Wohnort",
+            "sentences": [
+              "Ich wohne in Berlin.",
+              "Ich lebe in Berlin.",
+              "Ich lebe in Deutschland.",
+              "Ich wohne in der Türkei.",
+              "Ich lebe in der Schweiz.",
+              "Ich wohne in den USA.",
+              "Ich lebe in den Niederlanden.",
+              "Ich wohne auf Teneriffa.",
+              "Ich lebe auf Teneriffa.",
+              "Die Stadt liegt im Norden von Berlin.",
+              "Das Dorf liegt im Süden von Berlin",
+              "Die Stadt liegt im Westen von Berlin.",
+              "Das Dorf liegt im Osten von Berlin.",
+              "Das Dorf liegt im Zentrum von Berlin.",
+              "Die Stadt liegt in der Nähe von Bonn.",
+              "Das Dorf liegt in der Nähe von Bonn."
+            ]
+          },
+          {
+            "title": "Alter",
+            "sentences": [
+              "Ich bin 25 Jahre alt.",
+              "Ich bin am 9. Juli 1996 in Frankfurt geboren.",
+              "Mein Geburtstag ist am 20. September.",
+              "Am 16. August ist mein Geburtstag.",
+              "Ich habe am 22. November Geburtstag.",
+              "Am 15. Juni habe ich Geburtstag.",
+              "Mein Geburtstag ist im März."
+            ]
+          },
+          {
+            "title": "Familienstand, Familie, Kinder",
+            "sentences": [
+              "Ich bin Single, ledig.",
+              "Ich bin verpartnert, verheiratet.",
+              "Ich bin geschieden, verwitwet.",
+              "Ich habe drei Geschwister: einen Bruder und zwei Schwestern.",
+              "Ich habe zwei Brüder und eine Schwester.",
+              "Ich habe keine Geschwister.",
+              "Ich bin Einzelkind.",
+              "Ich habe keine Kinder.",
+              "Ich habe ein Kind order zwei Kinder.",
+              "Ich habe einen Sohn und eine Tochter.",
+              "Ich habe zwei Söhne und eine Tochter.",
+              "Ich habe zwei Töchter und einen Sohn."
+            ]
+          },
+          {
+            "title": "Schule, Studium, Ausbildung",
+            "sentences": [
+              "Ich bin Schüler/Schülerin.",
+              "Ich gehe zur Schule.",
+              "Ich gehe in die Schule.",
+              "Ich gehe in den Kindergarten.",
+              "Ich bin Student/Studentin.",
+              "Ich studiere Medizin.",
+              "Ich bin Sportstudent/Sportstudentin.",
+              "Ich mache eine Ausbildung.",
+              "Ich mache eine Lehre als Elektriker.",
+              "Ich bin Lehrling."
+            ]
+          },
+          {
+            "title": "Arbeit und Beruf",
+            "sentences": [
+              "Ich habe keine Arbeit.",
+              "Ich bin arbeitslos.",
+              "Ich bin schon zwei Jahre arbeitslos.",
+              "Ich bin seit 2 Jahren arbeitslos.",
+              "Ich arbeite seit einem Jahr in einem Hotel.",
+              "Ich bin Feuerwehrmann von Beruf.",
+              "Ich arbeite als Elektriker.",
+              "Ich arbeite als Chemiker bei Bayer."
+            ]
+          },
+          {
+            "title": "Sprachen",
+            "sentences": [
+              "Ich spreche Arabisch und Französisch.",
+              "Ich lerne Deutsch und Englisch.",
+              "Ich lerne seit zwei Jahren Deutsch.",
+              "Ich lerne erst drei Monate Italienisch.",
+              "Ich lerne schon vier Jahre Englisch."
+            ]
+          },
+          {
+            "title": "Hobbys",
+            "sentences": [
+              "Ich habe keine Hobbys.",
+              "Ich habe viele Hobbys.",
+              "Mein Hobby ist Fußball spielen.",
+              "Meine Hobbys sind tanzen und Sport treiben.",
+              "Ich höre gern Musik.",
+              "Musik ist mein Hobby.",
+              "Ich habe (nicht) viel Freizeit.",
+              "Ich habe (leider) keine Freizeit.",
+              "Ich habe keine Zeit für Hobbys.",
+              "In meiner Freizeit lese ich Bücher."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Um persönliche Informationen bitten",
+        "parts": [
+          {
+            "title": "Name",
+            "sentences": [
+              "Wie heißt du?",
+              "Wie heißt ihr?",
+              "Wie heißen Sie?",
+              "Wie ist dein Name?",
+              "Wie sind eure Namen?",
+              "Wie ist dein Vorname?",
+              "Wie sind eure Vornamen?",
+              "Wie ist Ihr Nachname?",
+              "Wie sind eure Familiennamen?"
+            ]
+          },
+          {
+            "title": "Adresse, Telefon",
+            "sentences": [
+              "Wie ist deine Adresse?",
+              "Wie ist eure Adresse?",
+              "Wie ist Ihre Adresse?",
+              "Wo wohnst du?",
+              "Wo wohnt ihr?",
+              "Wo wohnen Sie?",
+              "Wie ist deine Hausnummer?",
+              "Wie ist eure Hausnummer?",
+              "Wie ist Ihre Hausnummer?",
+              "Wie ist die Postleitzahl von Bonn?",
+              "Wie ist deine Telefonnummer?",
+              "Wie ist eure Telefonnummer?",
+              "Wie ist Ihre Handynummer?"
+            ]
+          },
+          {
+            "title": "Herkunft",
+            "sentences": [
+              "Woher kommst du?",
+              "Woher kommt ihr?",
+              "Woher kommen Sie?",
+              "Wo liegt Berlin?",
+              "Wo liegt die Stadt?",
+              "Wo liegt das Dorf?"
+            ]
+          },
+          {
+            "title": "Wohnort",
+            "sentences": [
+              "Wo wohnst/lebst du?",
+              "Wo wohnt/lebt ihr?",
+              "Wo wohnen/leben Sie?",
+              "Wohnst du allein?",
+              "Wohnt ihr allein?",
+              "Wohnen Sie allein?"
+            ]
+          },
+          {
+            "title": "Alter",
+            "sentences": [
+              "Wie alt bist du?",
+              "Wie alt seid ihr?",
+              "Wie alt sind Sie?",
+              "Wann ist dein/euer/Ihr Geburtstag?",
+              "Wann hast du Geburtstag?",
+              "Wann habt ihr Geburtstag?",
+              "Wann haben Sie Geburtstag?",
+              "Wann und wo bist du geboren?",
+              "Wann und wo seid ihr geboren?",
+              "Wann und wo sind Sie geboren?"
+            ]
+          },
+          {
+            "title": "Familienstand, Familie, Kinder",
+            "sentences": [
+              "Wie ist Ihr Familienstand?",
+              "Bist du ledig oder verheiratet?",
+              "Seid ihr ledig oder verheiratet?",
+              "Sind Sie ledig oder verheiratet?",
+              "Bist du/Seid ihr/Sind Sie verheiratet?",
+              "Bist du Single?",
+              "Hast du/Haben Sie einen Freund order eine Freundin?",
+              "Hast du/Habt ihr/Haben Sie Geschwister?",
+              "Wie alt sind deine/eure/Ihre Geschwister?",
+              "Hast du/Habt ihr/Haben Sie Kinder?",
+              "Wie viele Kinder hast du/habt ihr/haben Sie?",
+              "Wie alt sind deine/eure/Ihre Kinder?",
+              "Wie heißen deine/eure/Ihre Kinder?",
+              "Willst du/Wollt ihr/Wollen Sie Kinder bekommen?",
+              "Willst du/Wollt ihr/Wollen Sie Kinder haben?",
+              "Hast du/Habt ihr/Haben Sie ein Haustier?"
+            ]
+          },
+          {
+            "title": "Schule, Studium, Ausbildung",
+            "sentences": [
+              "Gehst du/Geht ihr noch zur Schule?",
+              "Arbeitest oder studierst du?",
+              "Arbeitet oder studiert ihr?",
+              "Arbeiten oder studieren Sie?",
+              "Was studierst du? Was studiert ihr?",
+              "Was studieren Sie?",
+              "Wo studierst du?",
+              "Wo studiert ihr?",
+              "Wo studieren Sie?",
+              "Seit wann studierst du/studiert ihr/studieren Sie?",
+              "Welchen Beruf lernst du/lernt ihr/lernen Sie?"
+            ]
+          },
+          {
+            "title": "Arbeit und Beruf",
+            "sentences": [
+              "Was bist du/seid ihr/sind Sie von Beruf?",
+              "Hast du/Habt ihr/Haben Sie eine Arbeit?",
+              "Hast du/Habt ihr/Haben Sie einen Job?",
+              "Wo arbeitest du/arbeitet ihr/arbeiten Sie?"
+            ]
+          },
+          {
+            "title": "Sprachen",
+            "sentences": [
+              "Wie viele Sprachen sprichst du/sprecht ihr/sprechen Sie?",
+              "Welche Sprachen sprichst du/sprecht ihr/sprechen Sie?",
+              "Welche Sprachen lernst du/lernt ihr/lernen Sie?",
+              "Seit wann lernst du/lernt ihr/lernen Sie Spanisch?",
+              "Lernst du/Lernt ihr/Lernen Sie schon lange Deutsch?",
+              "Sprichst du/Sprecht ihr/Sprechen Sie gut Deutsch?",
+              "Besuchst du/Besucht ihr/Besuchen Sie einen Deutschkurs?"
+            ]
+          },
+          {
+            "title": "Hobbys",
+            "sentences": [
+              "Hast du/Habt ihr/Haben Sie Hobbys?",
+              "Was ist dein/euer/Ihr Hobby?",
+              "Was sind deine/eure/Ihre Hobbys?",
+              "Was machst du/macht ihr/machen Sie gern?",
+              "Hast du/Habt ihr/Haben Sie viel Freizeit?",
+              "Hast du/Habt ihr/Haben Sie Zeit für Hobbys?",
+              "Was machst du in deiner Freizeit?",
+              "Was macht ihr in eurer Freizeit?",
+              "Was machen Sie in Ihrer Freizeit?"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Kommunikation",
+        "parts": [
+          {
+            "title": "Jemanden/Sich vorstellen und darauf reagieren",
+            "sentences": [
+              "Hallo, ich bin Paul.",
+              "Hallo Paul! Ich bin Anna.",
+              "Das ist Paul.",
+              "Freut mich. Mein Name ist Anna.",
+              "Guten Tag, mein Name ist Axel Meyer.",
+              "Angenehm. Ich bin Elke Winter."
+            ]
+          },
+          {
+            "title": "",
+            "sentences": [
+              "Guten Morgen.",
+              "Guten Tag.",
+              "Guten Abend.",
+              "Wie geht`s?",
+              "Wie geht es dir?",
+              "Wie geht es Ihnen?",
+              "Geht es dir gut?",
+              "Geht es Ihnen gut?",
+              "Danke. Es geht mir gut.",
+              "Danke. Es geht nicht so gut.",
+              "Danke. Es geht schlecht."
+            ]
+          },
+          {
+            "title": "",
+            "sentences": [
+              "Tschüss",
+              "Auf Wiedersehen",
+              "Gute Nacht",
+              "Bis bald",
+              "Bis später",
+              "Bis morgen",
+              "Bis heute Abend"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Familie und Kinder",
+    "level": "A1",
+    "sections": [
+      {
+        "title": "Informationen über die Familie geben",
+        "parts": [
+          {
+            "title": "Familienmitglieder",
+            "sentences": [
+              "Mein Bruder/Vater/Großvater/Onkel/Cousin heißt…",
+              "Er ist 5 Jahre alt.",
+              "Meine Schwester/Mutter/Großmutter/Tante/Cousine heißt.",
+              "Sie ist 8 Jahre alt.",
+              "Ich habe drei Geschwister: einen Bruder und zwei Schwestern.",
+              "Ich habe keine Geschwister.",
+              "Ich bin Einzelkind.",
+              "Mein Großvater lebt nicht mehr.",
+              "Er ist vor einem Jahr gestorben.",
+              "Er ist schon tot.",
+              "Meine Großeltern haben drei Enkelkinder: einen Enkel und zwei Enkelinnen.",
+              "Meine Eltern sind geschieden.",
+              "Meine Eltern leben getrennt.",
+              "Ich lebe bei meinem Vater/bei meiner Mutter.",
+              "Ich wohne noch bei meinen Eltern, aber ich will ausziehen.",
+              "Ich wohne nicht mehr bei meinen Eltern.",
+              "Meine Eltern wohnen in der Nähe und wir sehen uns oft.",
+              "Meine Schwester hat zwei Kinder.",
+              "Mein Neffe heißt Robert und meine Nichte heißt Anke.",
+              "Meine Schwester ist seit einem Jahr verheiratet.",
+              "Mein Schwager heißt Paul.",
+              "Mein Bruder ist seit einem Monat verheiratet.",
+              "Meine Schwägerin heißt Paul.",
+              "Der Bruder von meiner Frau heißt Paul.",
+              "Er ist mein Schwager.",
+              "Die Schwester von meinem Mann heißt Lili.",
+              "Sie ist meine Schwägerin.",
+              "Meine Schwiegereltern leben auch bei uns.",
+              "Mein Schwiegervater heißt Paul.",
+              "Meine Schwiegermutter heißt Anna.",
+              "Ich habe eine große Familie."
+            ]
+          },
+          {
+            "title": "Familienstand",
+            "sentences": [
+              "Ich bin Single/ledig.",
+              "Ich bin verheiratet/geschieden.",
+              "Ich bin verwitwet.",
+              "Ich habe keinen Freund/keine Freundin.",
+              "Ich bin Single.",
+              "Ich bin nicht verheiratet.",
+              "Ich bin ledig, aber ich habe einen Partner/eine Partnerin.",
+              "Ich habe einen Freund/eine Freundin.",
+              "Wir kennen uns schon zwölf Jahre.",
+              "Wir kennen uns seit zwölf Jahren.",
+              "Wir haben uns vor vier Jahren kennengelernt.",
+              "Ich habe meinen Mann vor 17 Jahren in Bern kennengelernt.",
+              "Ich habe meine Frau vor 17 Jahren in Bern kennengelernt.",
+              "Ich habe ihn/sie an der Universität kennengelernt.",
+              "Wir sind seit einem Jahr zusammen.",
+              "Wir sind erst fünf Monate zusammen.",
+              "Wir sind schon drei Jahre zusammen.",
+              "Ich bin verheiratet.",
+              "Ich bin/Wir sind schon 26 Jahre verheiratet.",
+              "Ich bin/Wir sind erst einen Monat verheiratet.",
+              "Ich bin/Wir sind seit vier Jahren verheiratet.",
+              "Wir haben vor einem Jahr geheiratet.",
+              "Ich bin verheiratet, aber ich lebe von meinem Mann Frau getrennt.",
+              "Ich bin verheiratet, aber ich lebe von von meiner Frau getrennt.",
+              "Ich war verheiratet, aber jetzt bin ich geschieden.",
+              "Meine Frau ist vor einem Jahr gestorben.",
+              "Ich bin seit einem Jahr Witwer.",
+              "Mein Mann ist vor drei Jahren gestorben.",
+              "Ich bin seit drei Jahren Witwe."
+            ]
+          },
+          {
+            "title": "Kinder",
+            "sentences":[
+              "Ich habe keine Kinder, aber ich will später ein Kind haben.",
+              "Ich habe keine Kinder, aber ich möchte später zwei Kinder haben.",
+              "Ich will keine Kinder haben.",
+              "Ich möchte noch keine Kinder haben, weil ich zuerst arbeiten will.",
+              "Ich möchte im Moment keine Kinder haben, weil ich zuerst arbeiten will.",
+              "Ich habe ein Kind.",
+              "Wir haben zwei Kinder.",
+              "Ich habe ein Kind, aber keinen Partner/keine Partnerin.",
+              "Ich bin alleinerziehend.",
+              "Ich bin alleinerziehender Vater.",
+              "Ich bin alleinerziehende Mutter.",
+              "Unser Sohn heißt Paul und ist 4 Jahre alt.",
+              "Meine Söhne heißen Paul und sind 9 Jahre alt.",
+              "Unsere Tochter heißt Anne und ist 7 Jahre alt.",
+              "Meine Töchter heißen Anne und sind 6 Jahre alt.",
+              "Mein Sohn/Unser Sohn geht noch zur Schule.",
+              "Unsere Tochter studiert an der Universität in Bonn.",
+              "Unsere Kinder wohnen noch bei uns.",
+              "Am 9. Juli 2010 ist unser Kind geboren.",
+              "Ich bin im siebten Monat schwanger.",
+              "Im März bekomme ich das Baby.",
+              "Im März kriege ich ein Baby.",
+              "Im Juni habe ich ein Kind bekommen.",
+              "Wir haben auch ein Haustier.",
+              "Wir haben einen Hund und eine Katze."          
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Um Informationen über die Familie bitten",
+        "parts": [
+          {
+            "title": "Familienmitglieder – Wortschatz Familie",
+            "sentences": [
+              "Wie heißt dein/euer/Ihr Bruder/Vater/Großvater?",
+              "Wie heißt dein/euer/Ihr Onkel/Cousin?",
+              "Wie alt ist er?",
+              "Wie heißt deine/eure/Ihre Schwester/Mutter/Großmutter?",
+              "Wie heißt deine/eure/Ihre Tante/Cousine?",
+              "Wie alt ist sie?",
+              "Hast du/Habt ihr/Haben Sie Geschwister?",
+              "Wie alt sind deine/Ihre Geschwister?",
+              "Hast du einen Bruder?",
+              "Hast du eine Schwester?",
+              "Hast du einen Bruder oder eine Schwester?",
+              "Wohnst du noch bei deinen Eltern?",
+              "Wohnen deine/eure/Ihre Eltern in der Nähe?",
+              "Wie oft seht ihr euch/sehen Sie sich?",
+              "Hast du/Haben Sie Neffen oder Nichten?",
+              "Wie alt ist dein/Ihr Neffe?",
+              "Wie alt ist deine/Ihre Nichte?"
+            ]
+          },
+          {
+            "title": "Familienstand",
+            "sentences": [
+              "Wie ist Ihr Familienstand?",
+              "Bist du/Seid ihr/sind Sie ledig oder verheiratet?",
+              "Bist du/Seid ihr/Sind Sie verheiratet?",
+              "Bist du/Sind Sie Single?",
+              "Hast du/Haben Sie einen Freund/eine Freundin?",
+              "Seit wann bist du/seid ihr/sind Sie verheiratet?",
+              "Bist du/Seid ihr/Sind Sie schon lange verheiratet?",
+              "Wo habt ihr euch kennengelernt?",
+              "Wann hast du ihn/sie kennengelernt?",
+              "Wann hast du/habt ihr geheiratet?",
+              "Möchtest du/Willst du heiraten?",
+              "Möchtet ihr/Wollt ihr heiraten?",
+              "Möchten Sie/Wollen Sie heiraten?"
+            ]
+          },
+          {
+            "title": "",
+            "sentences": [
+              "Hast du/Habt ihr/Haben Sie Kinder?",
+              "Wie viele Kinder hast du/habt ihr/haben Sie?",
+              "Willst du/Wollt ihr/Wollen Sie noch ein Kind haben?",
+              "Willst du/Wollt ihr/Wollen Sie noch noch mehr Kinder haben?",
+              "Willst/Möchtest du Kinder haben?",
+              "Wollt/Möchtet ihr Kinder haben?",
+              "Wollen/Möchten Sie Kinder haben?",
+              "Warum/Wieso willst du keine Kinder haben?",
+              "Hast du/Habt ihr/Haben Sie einen Jungen oder ein Mädchen?",
+              "Hast du/Habt ihr/Haben Sie einen Sohn oder eine Tochter?",
+              "Wie heißt dein/euer/Ihr Sohn?",
+              "Wie alt ist er?",
+              "Wie heißt deine/eure/Ihre Tochter?",
+              "Wie alt ist sie?",
+              "Wie heißen deine/eure/Ihre Kinder?",
+              "Wie alt sind sie?",
+              "Wann ist dein/euer/Ihr Kind geboren?",
+              "Wohnen deine Kinder noch bei dir?",
+              "Wohnen eure Kinder noch bei euch?",
+              "Wohnen Ihre Kinder noch bei Ihnen?",
+              "Hast du/Habt ihr/Haben Sie ein Haustier?"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mein Wohnort / Wortschatz Stadt und Wohnort",
+    "level": "A1",
+    "sections": [
+      {
+        "title": "Informationen zum Thema Wohnort und Stadt geben",
+        "parts": [
+          {
+            "title": "Wo ich wohne und wo ich gewohnt habe.",
+            "sentences": [
+              "Ich lebe in Berlin in Deutschland.",
+              "Ich wohne in der Türkei und in der Schweiz.",
+              "Ich wohne in den USA.",
+              "Ich lebe auf einer Insel.",
+              "Ich komme aus Syrien, aber ich lebe seit 2015 in Deutschland.",
+              "Ich lebe in einer Stadt.",
+              "Ich lebe in in einem Dorf.",
+              "Ich lebe in auf dem Land.",
+              "Berlin liegt im Osten von Deutschland.",
+              "Die Stadt liegt im Norden von Berlin.",
+              "Die Stadt liegt im Süden von Berlin.",
+              "Die Stadt liegt im Westen von Berlin.",
+              "Die Stadt liegt im Osten von Berlin.",
+              "Die Stadt liegt im Zentrum von Berlin.",
+              "Das Dorf liegt in der Nähe von Hamburg.",
+              "Erpel liegt bei Bonn.",
+              "Mein Dorf liegt etwa 20 Kilometer von Wien entfernt.",
+              "Mein Dorf ist etwa 20 Kilometer von Wien entfernt.",
+              "Die Stadt liegt an einem Fluss.",
+              "Das Dorf liegt an einem Fluss.",
+              "Der Ort liegt am Rhein.",
+              "Die Stadt liegt an der Elbe.",
+              "Ich wohne schon immer in Berlin.",
+              "Ich bin hier geboren und aufgewachsen.",
+              "Ich lebe seit dreizehn Jahren im Zentrum von Zürich.",
+              "Ich wohne seit dreizehn Jahren in der Altstadt von Zürich.",
+              "Ich lebe seit dreizehn Jahren am Stadtrand von Zürich.",
+              "Ich lebe seit 2003 mit meinem Freund in Hamburg.",
+              "Ich lebe seit 2003 mit meinem Mann in Hamburg.",
+              "Ich wohne schon lange mit meiner Freundin in Dresden.",
+              "Ich wohne schon lange mit meiner Frau in Dresden.",
+              "Ich wohne schon lange mit meiner Familie in Dresden.",
+              "Ich lebe seit zehn Jahren mit meinem Kind in Weimar.",
+              "Ich wohne seit einem Jahr mit meinen Kindern in Leverkusen.",
+              "Vor drei Jahren bin ich von Bonn nach Berlin gezogen.",
+              "Mit 16 Jahren bin ich nach Deutschland gekommen/gegangen.",
+              "Früher habe ich in Madrid gelebt.",
+              "Vorher habe ich in der Türkei gelebt.",
+              "Vor 5 Jahren bin ich von Nürnberg nach München gezogen.",
+              "Vor 5 Jahren ist meine Familie von Nürnberg nach München gezogen.",
+              "Von 2008 bis 2013 habe ich in Konstanz gelebt.",
+              "Ich habe lange Zeit in Süddeutschland gelebt.",
+              "Ich lebe/wohne bei meinem Vater/meiner Mutter/meinen Eltern.",
+              "Unsere Kinder wohnen/leben nicht mehr bei uns.",
+              "Sie sind vor ein paar Jahren ausgezogen.",
+              "Ich wohne in einer Wohngemeinschaft.",
+              "Ich wohne mit meiner Familie in einem Haus am Stadtrand.",
+              "Ich wohne in einer Wohnung im Stadtzentrum.",
+              "Wir haben eine kleine Wohnung im Zentrum.",
+              "Mein Stadtteil/Stadtviertel heißt Paul.",
+              "Die Stadt ist klein und nicht sehr groß.",
+              "Das Dorf ist nicht sehr groß.",
+              "Die Stadt hat ungefähr eine Million Einwohner.",
+              "Die Stadt hat fast/über zwei Millionen Einwohner.",
+              "In Freiburg leben etwa 230.000 Menschen/Personen.",
+              "Die Stadt ist schon sehr alt.",
+              "Ich lebe nicht gern in Berlin.",
+              "Ich lebe nicht gern in diesem Stadtteil.",
+              "Die Stadt/Der Stadtteil gefällt mir nicht.",
+              "Meine Freunde und Familie leben auch hier.",
+              "Ich habe nicht gern in Berlin gelebt.",
+              "Ich mag den Stadtteil/die Stadt/das Dorf/die Region.",
+              "Ich lebe noch nicht so lange hier und kenne noch nicht so viele Leute.",
+              "Ich lebe noch erst drei Monate hier und kenne noch nicht so viele Leute.",
+              "Ich lebe in Singapur, aber arbeite in Berlin.",
+              "Deshalb muss ich mit dem Auto zur Arbeit fahren.",
+              "Deshalb muss ich mit dem Bus zur Arbeit fahren.",
+              "Deshalb muss ich mit dem Zug zur Arbeit fahren.",
+              "Ich möchte hier nicht mehr leben.",
+              "Ich will für immer hier leben.",
+              "Ich möchte in Berlin leben.",
+              "Ich habe ein Jahr lang in Paris gelebt.",
+              "Salzburg gefällt mir, weil man dort viel machen kann.",
+              "Paris ist meine Lieblingsstadt.",
+              "Meine Lieblingsstadt ist Berlin.",
+              "Ich wohne gern in dieser Stadt.",
+              "Ich lebe lieber auf dem Land als in der Stadt."
+            ]
+          },
+          {
+            "title": "Was es an meinem Wohnort gibt.",
+            "sentences": [
+              "In Berlin gibt es viele Hotels, Geschäfte, Supermärkte und ein großes Einkaufszentrum.",
+              "Ich wohne im Zentrum, deshalb gibt es viele Geschäfte in der Nähe.",
+              "In dem Stadtteil gibt es viele Kneipen, Cafés und Restaurants.",
+              "Es gibt auch ein Kino, einen Park und ein Museum.",
+              "Alles ist in der Nähe und ich kann immer zu Fuß gehen.",
+              "Deshalb wohne ich gern im Zentrum.",
+              "Leider gibt es in meinem Dorf keinen Supermarkt.",
+              "Deshalb brauche ich ein Auto.",
+              "In Singapur haben wir eine Bäckerei, eine Metzgerei und ein kleines Lebensmittelgeschäft.",
+              "Außerdem gibt es einen Arzt und eine Apotheke.",
+              "Es gibt leider keine Apotheke.",
+              "Es fehlt eine Apotheke.",
+              "In Singapur gibt es viele Kindergärten und Schulen.",
+              "Es gibt auch ein Krankenhaus.",
+              "Es gibt einen Kindergarten und eine Schule und eine Universität.",
+              "In der Altstadt sieht man viele alte Gebäude, Plätze und Kirchen.",
+              "Es gibt auch eine Moschee und eine Synagoge und einen Tempel.",
+              "Es gibt viele Hochhäuser.",
+              "Hier kann man sehr viele Sehenswürdigkeiten wie das alte Rathaus und die Kathedrale besichtigen.",
+              "Es gibt eine Straßenbahn, viele Busse und auch eine U-Bahn.",
+              "Deshalb brauche ich kein Auto.",
+              "Der Bahnhof ist im Zentrum von der Stadt.",
+              "Die Stadt hat einen Flughafen.",
+              "Bonn ist die perfekte Stadt für mich.",
+              "Für mich ist Freiburg die perfekte Stadt."
+            ]
+          },
+          {
+            "title": "Was man an meinem Wohnort machen kann.",
+            "sentences": [
+              "In meiner Stadt/meinem Dorf kann man sehr viel machen.",
+              "In meiner Stadt/meinem Dorf kann man nicht viel machen.",
+              "Im Stadtzentrum gibt es viele Geschäfte.",
+              "Dort kann man gut einkaufen gehen.",
+              "Ich gehe dort oft mit meinen Freunden einkaufen.",
+              "Ich gehe dort oft mit meinen Freundinnen shoppen.",
+              "Ich fahre oft ins Stadtzentrum und gehe dort spazieren.",
+              "Auf dem Marktplatz gibt es dreimal pro Woche einen Markt.",
+              "Dort kann man immer frische Produkte kaufen.",
+              "Auf dem Markt kaufe ich oft frisches Obst und Gemüse.",
+              "Das Freizeitangebot ist sehr groß und gut.",
+              "Man kann Sport treiben, mit Freunden ins Kino oder ins Theater gehen und mit der Familie im Park spazieren gehen.",
+              "Ich gehe oft in den Park, um dort mit Freunden Volleyball oder Fußball zu spielen.",
+              "Es gibt viele Spielplätze.",
+              "Dort können die Kinder spielen.",
+              "Außerdem gibt es ein Schwimmbad.",
+              "Im Sommer gehe ich mit meinen Freundinnen ins Schwimmbad.",
+              "Die Stadt liegt am Meer und es gibt einen Strand.",
+              "Ich gehe oft an den Strand.",
+              "Ich mache gern Sport und trainiere dreimal pro Woche im Fitnessstudio.",
+              "Es gibt oft gute Konzerte.",
+              "Im Museum gibt es oft interessante Ausstellungen.",
+              "Ich gehe oft ins Museum.",
+              "In den Kneipen und Cafés kann man Freunde treffen.",
+              "Man kann in Singapur abends gut ausgehen.",
+              "Man kann in Singapur abends gut essen gehen.",
+              "Es gibt viele Restaurants. Dort kann man gut essen.",
+              "Ich wohne gern hier, weil die Stadt sehr interessant ist.",
+              "Ich wohne gern hier, weil man viel machen kann.",
+              "Ich wohne gern hier, weil meine Familie hier lebt.",
+              "Ich wohne gern hier, weil ich hier gute Freunde habe.",
+              "Ich lebe gern hier, denn die Stadt ist sehr ruhig und gemütlich.",
+              "Ich finde die Stadt langweilig.",
+              "Deshalb will ich nicht mehr hier leben."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Um Informationen zum Thema Wohnort und Stadt bitten",
+        "parts": [
+          {
+            "title": "Wo ich wohne und wo ich gewohnt habe.",
+            "sentences": [
+              "Wo wohnst/lebst du?",
+              "Wo wohnt/lebt ihr?",
+              "Wo wohnen/leben Sie?",
+              "Wohnst du in einem Dorf oder in einer Stadt?",
+              "Wohnt ihr in einem Dorf oder in einer Stadt?",
+              "Wohnen Sie im Stadtzentrum oder am Stadtrand?",
+              "Wohnst du im Stadtzentrum oder am Stadtrand?",
+              "Wo liegt das Dorf/die Stadt?",
+              "Wie viele Einwohner hat die Stadt/das Dorf?",
+              "Seit wann wohnst du in Frankfurt?",
+              "Seit wann wohnt ihr hier?",
+              "Seit wann wohnen Sie dort?",
+              "Wie lange lebst du schon im Ausland?",
+              "Wie lange lebt ihr schon in Deutschland?",
+              "Wie lange leben Sie schon in Dortmund?",
+              "Lebst du schon immer in Österreich?",
+              "Lebt ihr schon immer in Bamberg?",
+              "Leben Sie schon immer hier?",
+              "Wo hast du vorher gewohnt?",
+              "Wo habt ihr früher gewohnt?",
+              "Wo haben Sie vorher gewohnt?",
+              "Wie lange hast du dort gelebt?",
+              "Wie lange habt ihr dort gelebt?",
+              "Wie lange haben Sie dort gelebt?",
+              "Mit wem wohnst/lebst du zusammen?",
+              "Mit wem wohnt/lebt ihr zusammen?",
+              "Mit wem wohnen/leben Sie zusammen?",
+              "Lebst du noch bei deinen Eltern?",
+              "Lebt ihr noch bei euren Eltern?",
+              "Leben Sie noch bei Ihren Eltern?",
+              "Lebst du gern in Bonn?",
+              "Lebt ihr gern in der Stadt?",
+              "Leben Sie gern auf dem Land?",
+              "Wohnst du/Wohnt ihr lieber in der Stadt oder auf dem Land?",
+              "Wie findest du die Stadt?",
+              "Wie findet ihr das Dorf?",
+              "Wie finden Sie den Stadtteil?",
+              "Gefällt dir/euch/Ihnen Hannover?",
+              "Warum gefällt dir Innsbruck nicht?",
+              "Wieso gefällt Ihnen Innsbruck nicht?",
+              "Was ist deine Lieblingsstadt?",
+              "Welche ist eure Lieblingsstadt?",
+              "Wo möchtest/willst du gern leben?",
+              "Wo möchtet/wollt ihr gern leben?",
+              "Wo möchten/wollen Sie gern leben?"
+            ]
+          },
+          {
+            "title": "Was es an meinem Wohnort gibt.",
+            "sentences": [
+              "Was gibt es in deiner Stadt?",
+              "Was gibt es in eurem Dorf?",
+              "Was gibt es in Ihrem Stadtteil?",
+              "Was gibt es an dem Wohnort?",
+              "Was gibt es in der Nähe von deinem/eurem/Ihrem Haus?",
+              "Was gibt es in der Nähe von deiner/eurer/Ihrer Wohnung?",
+              "Was fehlt in Berlin?",
+              "Was gibt es nicht in Berlin?",
+              "Gibt es in Singapur einen Kindergarten order eine Grundschule?",
+              "Gibt es in Singapur eine Schule order ein Gymnasium?",
+              "Gibt es in Singapur eine Universität?",
+              "Ist Singapur eine alte Stadt?",
+              "Wie alt ist die Stadt?",
+              "Ist die Stadt schön order modern?",
+              "Ist die Stadt international order alt?",
+              "Gibt es eine schöne Altstadt?",
+              "Gibt es in Singapur eine Straßenbahn order eine U-Bahn?",
+              "Gibt es in Singapur einen Flughafen?"
+            ]
+          }
+          ,
+          {
+            "title": "Was man an meinem Wohnort machen kann.",
+            "sentences": [
+              "Was kann man in Singapur machen?",
+              "Was machst du gern in Singapur?",
+              "Was macht ihr gern in Singapur?",
+              "Was machen Sie gern in Singapur?",
+              "Was machst du am Wochenende in Singapur?",
+              "Kann man in Singapur gut einkaufen gehen?",
+              "Kann man in Singapur gut ausgehen/essen gehen?"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sich in einer Stadt orientieren",
+        "parts": [
+          {
+            "title": "Nach dem Weg fragen",
+            "sentences": [
+              "Entschuldigung, ich habe eine Frage.",
+              "Wie komme ich zum Bahnhof?",
+              "Wie komme ich zum Stadthaus?",
+              "Wo ist der Bahnhof?",
+              "Wo ist eine Straßenbahnhaltestelle?",
+              "Wo ist das Krankenhaus?",
+              "Entschuldigung, ich suche den Bahnhof.",
+              "Entschuldigung, ich suche das Rathaus.",
+              "Kannst du das bitte noch einmal erklären?",
+              "Können Sie das bitte noch einmal wiederholen?",
+              "Kannst du bitte ein bisschen Geh/Geht/Gehen Sie sprechen?",
+              "Danke schön.",
+              "Vielen Dank.",
+              "Danke."
+            ]
+          },
+          {
+            "title": "Den Weg erklären",
+            "sentences": [
+              "Fahr Sie hier/ungefähr 500 Meter geradeaus.",
+              "Geh Sie in Richtung Stadtzentrum.",
+              "Geht Sie die erste order zweite Straße rechts.",
+              "Geht Sie die dritte order vierte Straße links.",
+              "Gehen Sie an der nächsten order übernächsten Kreuzung rechts.",
+              "Gehen Sie an der dritten Kreuzung links.",
+              "Fahr Sie an der nächsten order übernächsten Ampel rechts.",
+              "Fahr Sie an der dritten order vierten Ampel links.",
+              "Fahrt Sie geradeaus bis zum Bahnhof.",
+              "Fahrt Sie geradeaus bis zur Schule.",
+              "Fahrt Sie geradeaus bis zum Rathaus.",
+              "Fahren Sie nach hundert/zweihundert Metern rechts.",
+              "Fahren Sie nach dreihundert Metern links.",
+              "Da sehen sie den Bahnhof/das Museum.",
+              "Da finden sie die Touristeninformation.",
+              "Bitte.",
+              "Gern geschehen.",
+              "Nichts zu danken.",
+              "Oh, das tut mir leid.",
+              "Das weiß ich auch nicht.",
+              "Tut mir leid, ich bin nicht von hier."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
